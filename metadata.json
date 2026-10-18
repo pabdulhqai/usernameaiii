@@ -1,0 +1,6 @@
+{
+  "name": "EcoClock",
+  "description": "Ultra-power-saving OLED launcher with a large hours, minutes, and seconds clock for home and lock screens and core system settings control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

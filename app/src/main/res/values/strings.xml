@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EcoClock</string>
+    <string name="home_tab">Home</string>
+    <string name="system_tab">System Core</string>
+    <string name="lock_tab">Lock Screen</string>
+    <string name="apps_tab">Apps</string>
+    <string name="ultra_power_save_active">ULTRA POWER SAVE ENGAGED</string>
+    <string name="ultra_power_save_standby">STANDARD POWER PROFILE</string>
+    <string name="engage_ultra_save">Engage Ultra Save</string>
+    <string name="restore_normal_profile">Restore Normal Profile</string>
+    <string name="grant_write_settings">Grant Modify System Settings</string>
+    <string name="write_settings_granted">System Settings Access Active</string>
+    <string name="set_default_launcher">Set Default Launcher</string>
+    <string name="lock_screen_active_hint">Double-tap or slide below to exit Lock Screen Standby</string>
+</resources>
